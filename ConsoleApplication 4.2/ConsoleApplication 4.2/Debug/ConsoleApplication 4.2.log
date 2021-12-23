@@ -1,0 +1,5 @@
+﻿  ConsoleApplication 4.2.cpp
+C:\Users\MVIDEO\source\repos\ConsoleApplication 4.2\ConsoleApplication 4.2\ConsoleApplication 4.2.cpp(25,36): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\MVIDEO\source\repos\ConsoleApplication 4.2\ConsoleApplication 4.2\ConsoleApplication 4.2.cpp(49,23): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\MVIDEO\source\repos\ConsoleApplication 4.2\ConsoleApplication 4.2\ConsoleApplication 4.2.cpp(70,23): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  ConsoleApplication 4.2.vcxproj -> C:\Users\MVIDEO\source\repos\ConsoleApplication 4.2\Debug\ConsoleApplication 4.2.exe
